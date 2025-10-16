@@ -96,15 +96,6 @@
 
 			<br>
 
-			<!-- 이지혜 위에 부모님 계좌 (account_number3/account_name3) -->
-			<p>{$_('rsvp.accordion.account_number3')}</p>
-			<p>{$_('rsvp.accordion.account_name3')}
-				<button class="copy-btn" onclick={() => copyAccount($_('rsvp.accordion.account_number3').split(' ').slice(1).join(' '))}>
-					{$_('rsvp.accordion.copy_account')}
-				</button>
-			</p>
-			<br>
-
 			<!-- 이지혜 계좌 -->
 			<p>{$_('rsvp.accordion.account_number')}</p>
 			<p>{$_('rsvp.accordion.account_name')}
