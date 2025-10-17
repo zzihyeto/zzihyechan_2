@@ -26,12 +26,12 @@
 		<div class="family-description kr scroll-animate">
 			<p>
 				임희종<span class="name-divider">{@html nameDivider}</span> 고수기
-				<span class="son">의 아들</span>임찬교
+				<span class="son">의 아들</span>찬교
 			</p>
 			<p>
 				장창열<span class="name-divider">{@html nameDivider}</span> 김정임<span class="daughter"
 					>의 딸</span
-				>이지혜
+				>지혜
 			</p>
 		</div>
 	</div>
