@@ -39,8 +39,8 @@
 		href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
 	/>
 	<meta property="og:title" content="ChanGyo & JiHye's Wedding" /> 
-	<meta property="og:description" content="26.01.31 (토) 오후 12시 함께 해주세요!" /> 
-	<meta property="og:image" content="https://zzihyechanwedding.netlify.app/black_half_1.jpg" /> 
+	<meta property="og:description" content="26.01.31 (토) 오후 12시 함께 해주세요" /> 
+	<meta property="og:image" content="https://zzihyechanweddinginvite.netlify.app/black_half_1.jpg" /> 
 	<meta property="og:url" content="https://zzihyechanweddinginvite.netlify.app/" /> <!-- 3번째 -->
 	<meta property="og:type" content="website" />
 
