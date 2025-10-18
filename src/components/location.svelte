@@ -4,6 +4,7 @@
 	import { localeStore } from '../i18n.svelte';
 	import { Clipboard, Github } from '@lucide/svelte';
 	import { onMount } from 'svelte';
+	import kakaofriend from '$lib/assets/kakaofriend1.png';
 
 	function copyAddress() {
 		navigator.clipboard
@@ -187,6 +188,10 @@
 			{@html $_('location.finish_letter').replace(/\r?\n/g, '<br>')}
 		</p>
 	</div>
+
+	<a href="http://pf.kakao.com/_MFJkn" target="_blank">
+		<img src={kakaofriend} alt="카카오채널_큐알사진" width="200" height="120"/>
+	</a>
 
 	<div class="invitation-share">
 		<button class="share-button kakao-talk" onclick={shareKakaoTalk}>
